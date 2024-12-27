@@ -3,6 +3,6 @@ Author: Curran Flanders
 
 Start Date: 08/08/2024 
 
-Description: Will solve a type of puzzle cube known as a polycube by reducing it to a set cover probelm and using Knuth's dancing links algorithm. 
+Description: Will solve a type of puzzle cube known as a polycube by reducing it to a set cover probelm and using Knuth's dancing links (DLX) algorithm. 
 
 Inspiration: based on the DLX implmentation from https://www.mattbusche.org/blog/article/polycube/ and Knuth's paper at https://arxiv.org/abs/cs/0011047
