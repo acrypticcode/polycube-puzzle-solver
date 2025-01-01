@@ -1,8 +1,9 @@
 # Polycube Puzzle Solver
 Author: Curran Flanders
 
-Start Date: 08/08/2024 
+Completion Date: 01/30/2024 
 
-Description: Will solve a type of puzzle cube known as a polycube puzzle by reducing it to a set cover problem and using Knuth's dancing links (DLX) algorithm. 
+Description: Solves a type of puzzle cube known as a polycube puzzle by reducing it to a set cover problem and using Knuth's dancing links (DLX) algorithm. 
+Link to Wolfram Community post about this project: https://community.wolfram.com/groups/-/m/t/3346410
 
 Inspiration: based on the DLX implmentation from https://www.mattbusche.org/blog/article/polycube/ and Knuth's paper at https://arxiv.org/abs/cs/0011047
